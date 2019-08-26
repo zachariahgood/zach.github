@@ -1,2 +1,3 @@
-zachariah good
-about me
+Zachariah Good
+
+About me
