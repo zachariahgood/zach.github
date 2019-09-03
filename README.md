@@ -1,3 +1,1 @@
-Zachariah Good
-
-About me
+zach.github.io
